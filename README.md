@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👨‍💻 All of my projects are available at [codehons.com](codehons.com)
+- 👨‍💻 All of my projects are available at [codehons.com](https://codehons.com/)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **codehons.com**
+- 📫 How to reach me **https://codehons.com/**
 
-- 📄 Know about my experiences [codehons.com](codehons.com)
+- 📄 Know about my experiences [codehons.com](https://codehons.com/)
 
 - ⚡ Fun fact **So jugging me haha**
 
