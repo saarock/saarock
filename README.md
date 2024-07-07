@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Saarock Basnet</h1>
 <h3 align="center">A passionate javaScript Developer from Nepal</h3>
 
-- 🔭 I’m currently working on e-commerce webapp for my home town [gogo-ecommerce](https://github.com/saarock/gogo-food-delivery-front https://github.com/saarock/gogo-food-delivery-back)
+- 🔭 I’m currently working on e-commerce webapp for my home town [gogo-ecommerce](
+- https://github.com/saarock/gogo-food-delivery-front
+- https://github.com/saarock/gogo-food-delivery-back
+- )
 
 - 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [codehons.com](https://codehons.com/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **javaScript and Java**
 
 - 📫 How to reach me **https://codehons.com/**
 
@@ -21,11 +24,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aayush basnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush basnet" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/coder-aayush-885ab9267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush basnet" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20095829/saarock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20095829/saarock" height="30" width="40" /></a>
 <a href="https://instagram.com/saarockbasnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saarockbasnet" height="30" width="40" /></a>
 <a href="https://medium.com/@saarock4646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saarock4646" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codehons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codehons" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCG-wvtI9In9rNbeomFfEywg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codehons" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@saarock4646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@saarock4646" height="30" width="40" /></a>
 </p>
 
