@@ -29,7 +29,7 @@
 <a href="https://instagram.com/saarockbasnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saarockbasnet" height="30" width="40" /></a>
 <a href="https://medium.com/@saarock4646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saarock4646" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCG-wvtI9In9rNbeomFfEywg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codehons" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/@saarock4646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@saarock4646" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/saarock4646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@saarock4646" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
