@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [codehons.com](https://codehons.com/)
 
-- ⚡ Fun fact **So jugging me haha**
+- ⚡ Tricky fact **I Loved javaScript so I can't hate java.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
