@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saarock Basnet</h1>
+<h1 align="center">Hi 👋, I'm Aayush Basnet</h1>
 <h3 align="center">A passionate javaScript Developer from Nepal</h3>
 
 - 🔭 I’m currently working on e-commerce webapp for my home town [gogo-ecommerce](
