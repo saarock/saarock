@@ -2,8 +2,7 @@
 <h3 align="center">A passionate javaScript Developer from Nepal</h3>
 
 - 🔭 I’m currently working on e-commerce webapp for my home town [gogo-ecommerce](
-- https://github.com/saarock/gogo-food-delivery-front
-- https://github.com/saarock/gogo-food-delivery-back
+- https://github.com/saarock/notty
 - )
 
 - 🌱 I’m currently learning **Spring boot**
