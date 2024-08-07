@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Basnet</h1>
 <h3 align="center">A passionate javaScript Developer from Nepal</h3>
 
-- 🔭 I’m currently working on notty.js libary (Focusing for wordpress developers.)(
-- https://github.com/saarock/notty
-- )
+- 🔭 I’m currently working on notty.js libary (Focusing for wordpress developers ( https://github.com/saarock/notty)
 
 - 🌱 I’m currently learning **Spring boot**
 
